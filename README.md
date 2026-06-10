@@ -34,3 +34,199 @@ This project showcases practical SOC analyst skills through a complete security 
 | **Attack Platform** | Kali Linux                    | Adversary simulation and penetration testing    |
 | **Virtualization** | VirtualBox 7.0                 | Isolated lab environment                        |
 
+
+## Steps
+<p align="center">
+1.downloading VirtualBox: <br/>
+<br />
+<img src="https://imgur.com/2UZ6YkM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+2.Running installer with default settings: <br/>
+<br />
+<img src="https://imgur.com/XPaEZmd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+3.creating the lab virtual network: <br/>
+<br />
+<img src="https://imgur.com/JvvWWGK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+4.downloading the ubuntu server ISO image: <br/>
+<br />
+<img src="https://imgur.com/N7W8qMY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+5.downloading kali linux ISO image: <br/>
+<br />
+<img src="https://imgur.com/Ny6rtAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+6. Downloading Windows 11 enterprise ISO image: <br/>
+<br />
+<img src="https://imgur.com/PtYClso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+7.1 Creating the Splunk VM: <br/>
+<br />
+<img src="https://imgur.com/FUQJ7uj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+7.2 Creating the Splunk VM: <br/>
+<br />
+<img src="https://imgur.com/7bSNP1l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+7.3 Creating the Splunk VM: <br/>
+<br />
+<img src="https://imgur.com/07AJj2W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+7.4 Creating the Splunk VM: <br/>
+<br />
+<img src="https://imgur.com/sFtSsq9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+7.5 Creating the Splunk VM (Network Adapter).png: <br/>
+<br />
+<img src="https://imgur.com/TvAgDUr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+8.0  Boot the VM and walk through the Ubuntu Server installation using default options..png: <br/>
+<br />
+<img src="https://imgur.com/VObTAdv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+8.1 choosing ubuntu server installation type.png: <br/>
+<br />
+<img src="https://imgur.com/XxLZlBR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+8.2 ubuntu server network configuration and DHCP address.png : <br/>
+<br />
+<img src="https://imgur.com/VIm2ov3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+8.3 ubuntu server storage configuration.png: <br/>
+<br />
+<img src="https://imgur.com/86msWET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+8.4 ubuntu server profile configuration.png: <br/>
+<br />
+<img src="https://imgur.com/erR8CBk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+8.5 ubuntu server installing.png: <br/>
+<br />
+<img src="https://imgur.com/LJ6heHt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+9.1 intial ubuntu configuration.png : <br/>
+<br />
+<img src="https://imgur.com/1XHgs6s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+9.2 updating system .png: <br/>
+<br />
+<img src="https://imgur.com/9QRmN03.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+9.3 server ip address.png: <br/>
+<br />
+<img src="https://imgur.com/NTZSmlf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+9.4 issues downloading splunk.png: <br/>
+<br />
+<img src="https://imgur.com/3Hp07WK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+9.5 installing wget, curl and ping.png: <br/>
+<br />
+<img src="https://imgur.com/vwJc4wS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+9.6 successfully downloading splunk after troubleshooting.png: <br/>
+<br />
+<img src="https://imgur.com/wzqGUH4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+9.7 installing the package and setting username and password.png: <br/>
+<br />
+<img src="https://imgur.com/JXLK8b0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+<p align="center">
+9.8 enabling splunk to start at boot.png: <br/>
+<br />
+<img src="https://imgur.com/SDbfe7c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+10. accessing splunk web UI.png: <br/>
+<br />
+<img src="https://imgur.com/WfULw3f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br /
